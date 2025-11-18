@@ -1,2 +1,2 @@
 # Exploratory-Analysis-of-Global-Earthquake
-Python
+Python project
